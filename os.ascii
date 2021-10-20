@@ -1,4 +1,4 @@
-iPhone Xs: iOS 13.3.1
+iPhone Xs: iOS 14.7.1
 iPhone 6: iOS 12.4.6
 iPhone 5s: iOS 11.3
 G5: OS X 10.5.8 / Darwin 9.8.0 / XCode 3.1.4
@@ -7,3 +7,4 @@ MacBook: 10.6.8 / Darwin 10.8.0 / XCode 4.0.2
 Acer: Debian 10.3 / Linux 4.19.0
 x3455: Debian 9.2 / Linux 4.9.0
 astaroth: Debian 8.6 / Linux 3.16.0
+Dell: Windows 10 Enterprisse 20H2
